@@ -1,16 +1,37 @@
-# currency_converter
+# 💱 Currency Converter App (Flutter)
 
-A new Flutter project.
+## 📌 Project Description
+This is a simple Flutter application that converts **USD to BDT** using a fixed exchange rate.  
+The app demonstrates both **Material Design (Android)** and **Cupertino Design (iOS)** implementations in Flutter.
 
-## Getting Started
+This project is beginner-friendly and focuses on understanding Flutter widgets, layouts, state management, and platform-specific UI.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- Convert USD to BDT using a fixed conversion rate
+- Material UI version (Android-style)
+- Cupertino UI version (iOS-style)
+- Clean and minimal user interface
+- Uses `StatefulWidget` and `TextEditingController`
+- Proper controller disposal to prevent memory leaks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material Design
+- Cupertino Widgets
+
+---
+
+## 🚀 How to Run the Project
+1. Ensure Flutter is installed on your system
+2. Clone the repository
+3. Navigate to the project directory
+4. Run the following commands:
+
+```bash
+flutter pub get
+flutter run
